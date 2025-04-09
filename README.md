@@ -6,7 +6,7 @@ A minimalist, responsive portfolio theme for [Jekyll](http://jekyllrb.com/) with
 
 [See it in action](http://jamigibbs.github.io/phantom/).
 
-## Fancy using it for your own site?
+## Fancye using it for your own site?
 
 Here are some steps to get you started:
 
